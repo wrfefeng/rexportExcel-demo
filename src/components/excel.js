@@ -5,7 +5,7 @@
  * Time: 16:04
  */
 import React, { Component } from 'react'
-import { downloadExcel } from "../spi";
+import { downloadExcel } from "../api";
 
 class Excel extends Component {
   constructor(props) {
